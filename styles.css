@@ -108,6 +108,10 @@ a
 {
     display: none;
 }
+.greting {
+text-align: center;
+color: aliceblue;
+}
 
 @media (max-width: 768px) {
     .column 
